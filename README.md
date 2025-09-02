@@ -1,2 +1,2 @@
-# repositorio10
-meu primeiro repo
+# editoramundo 
+Editora mundo das palavras
